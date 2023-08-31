@@ -19,7 +19,7 @@
 
 
 
-  <title>Ассоциация Повaров Узбекистана</title>
+  <title>Jasur Повaров Узбекистана</title>
 
   <meta content="" name="description">
 

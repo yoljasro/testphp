@@ -269,7 +269,7 @@
 
 
                   <?php } ?>
-
+          
 
 
                 </ul>
@@ -807,7 +807,6 @@
           </div>
 
         </div>
-
       </section>
 
     </section><!-- End Chefs Section -->
@@ -2258,7 +2257,7 @@
 
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/ -->
 
-        Powered by <a href="http://zucco.academy/">ZuccoAcademy</a>
+        Powered by <a href="https://t.me/jasurbek_s7">Jasurbek_programmer</a>
 
       </div>
 

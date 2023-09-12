@@ -11,11 +11,6 @@ if(!isset($_SESSION['UserData']['Username'])){
 }
 
 
-
-
-
-
-
 if(isset($_POST['id'])&&isset($_POST['fishuz'])&&isset($_POST['fishru'])&&isset($_POST['fishen'])&&isset($_POST['rasm'])&&isset($_POST['positionuz'])&&isset($_POST['positionru'])&&isset($_POST['positionen'])){
 
     $jsondata=file_get_contents("../../assets/rukovodstvo.json");
